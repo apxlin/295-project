@@ -1,1 +1,1 @@
-# 295-project
+# CS295-project
